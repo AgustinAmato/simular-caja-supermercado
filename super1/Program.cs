@@ -1,7 +1,6 @@
 ﻿/*
 Hacer un programa que simule una caja de supermercado.
 
-Simular-caja-de-supermercado-
 Debe:
 cargar 5 productos.
 uardar precios en vector.
