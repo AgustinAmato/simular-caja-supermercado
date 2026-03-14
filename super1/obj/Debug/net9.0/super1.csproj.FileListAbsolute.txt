@@ -1,0 +1,14 @@
+C:\Users\AGUSTIN\Desktop\practica\super1\bin\Debug\net9.0\super1.exe
+C:\Users\AGUSTIN\Desktop\practica\super1\bin\Debug\net9.0\super1.deps.json
+C:\Users\AGUSTIN\Desktop\practica\super1\bin\Debug\net9.0\super1.runtimeconfig.json
+C:\Users\AGUSTIN\Desktop\practica\super1\bin\Debug\net9.0\super1.dll
+C:\Users\AGUSTIN\Desktop\practica\super1\bin\Debug\net9.0\super1.pdb
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.AssemblyInfoInputs.cache
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.AssemblyInfo.cs
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.csproj.CoreCompileInputs.cache
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.dll
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\refint\super1.dll
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.pdb
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\super1.genruntimeconfig.cache
+C:\Users\AGUSTIN\Desktop\practica\super1\obj\Debug\net9.0\ref\super1.dll
